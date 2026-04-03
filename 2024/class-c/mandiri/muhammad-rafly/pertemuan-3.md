@@ -5,7 +5,7 @@
 Pada pertemuan ketiga mata kuliah perpustakaan dan arsip digital pada hari Rabu 2 April 2026, diadakan presentasi hasil diskusi dari kelompok dua yang membahas Posisi Teknologi Sebagai Mitos dan Hiperrealitas dalam Kehidupan Digital. Yang berisikan mengenai bagaimana teknologi bisa dianggap sebagai mitos, sperti teknologi yang dianggap sebagai kemuajan yang langsu diterima tanpa pemikuran kritis. Serta pembahasan menngenai Hiperrealitas seperti realitas yang tergantikan oleh simulasi, tanda dan simbol menjadi realitas itu sendiri, teknologi yaang menyatu dengan realitas, dan simulasi sebagai bentuk dominan ralitas yang dimana pembahasan yang mini sama dengan pertanyyan mengapa simulasi bisa menggantkan realitas?
 
 ## Pembahasan
-Dalam pembahasan mereka mengenai Posisi Teknologi Sebagai Mitos dan Hiperrealitas dalam Kehidupan Digital, kelompok dua menjelaskan bahwa teknologi dianggap sebagai simbole kemajuan yang dapat membantu segaala persoalan manuasia, yang dengan mudah diterima tanpa melalui pemikiran yang kritis. Dan Jean Baudrillard menegsakan bahawa dalam masyarakat konsumsi, teknologi menjadi bagian dari mitos yang yang dipercaya sebagai solusi yang jarang dipertanyakan.
+Dalam pembahasan mereka mengenai Posisi Teknologi Sebagai Mitos dan Hiperrealitas dalam Kehidupan Digital, kelompok dua menjelaskan bahwa teknologi dianggap sebagai simbole kemajuan yang dapat membantu segaala persoalan manuasia, yang dengan mudah diterima tanpa melalui pemikiran yang kritis. Dan Jean Baudrillard menegsakan bahawa dalam masyarakat konsumsi, teknologi menjadi bagian dari mitos yang yang dipercaya sebagai solusi yang jarang dipertanyakan[^1].
 
 Selain itu mereka juga menjelaskan teknologi sebagai mitos melalui beberapa mekanisme seperti, naturalisasi, universalisasi, dan depolitisasi. Dan dalam penjelasan mengenai depolitisasi, Pak Al selaku dosen pengampu, dalam diskusi ini meluluskan bahwasannya teknologi tidak pernah netral atau berpihak pada kempetingan suatu kelompok atau dalam politik.
 
@@ -18,5 +18,6 @@ Dan seperti menurut Jean Baudrillard, peta itulah yang mendahului wilayahnya. Ya
 ## Kesimpulan
 Teknologi yang merupakan subuah inovasi dan kemuajuan dapat dianggap sebagai mitos jikalau dengan mudahnya diterima tanpa mempertanyakan teknologi tersebut tanpa pemikiranyang kritis, serta hiperrealitas merupakan batas antara simulasi dan realitas terasa seperti nyata atau bahkan kabur yang membuat manusia tergantung kepada simulasi itu sendiri dibanding realitas secara nyata.
 
+---
 ## Sumber 
-Baudrillard, J. (1981). *Simulacra and Simulation: Translated by Sheila Faria Glaser* Michigan.
+[^1]: Baudrillard, J. (1981). *Simulacra and Simulation: Translated by Sheila Faria Glaser* Michigan.
