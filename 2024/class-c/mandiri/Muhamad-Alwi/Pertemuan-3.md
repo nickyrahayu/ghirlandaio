@@ -1,4 +1,5 @@
 # Contoh dari Simulakra
+*Resume Hasil Presentssi Kelompok 2 : Posisi Teknologi Sebagai Mitos Dan Hipperealitas Dalam Kehidupan Digital.*
 
 ## I. Pendahuluan
 #### Simulakra merupakan konsep yang menjelaskan kondisi masyarakat kontemporer dimana tanda dan citra tidak lagi mencerminkan kenyataan melainkan menciptakan realitasnya sendiri. Menurut Jean Baudrilard dalam buku **```Simulacra & Simulation```**, kita hidup dalam era simulasi dimana batas antara yang nyata dan yang palsu telah runtuh, dan melahirkan istilah **```Hiperrealitas```**. Pada kondisi ini, model-model buatan lebih dianggap nyata dibandingkan kenyataan fisik itu sendiri.
