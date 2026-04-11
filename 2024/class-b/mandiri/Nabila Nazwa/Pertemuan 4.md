@@ -7,3 +7,5 @@ Menurut Weber (2004), proyek Linux menunjukkan beberapa hal penting. Pertama, Li
 Ketiga, Linux memperlihatkan bahwa open source bukan sekadar eksperimen akademik. Sistem ini mampu bersaing dengan perangkat lunak komersial dan menandai keberhasilan model inovasi private-collective, yaitu gabungan kontribusi individu yang tetap memberi manfaat bagi komunitas. Keempat, keberhasilan Linux mendorong perusahaan besar untuk melihat open source bukan sebagai ancaman, melainkan sebagai aset strategis. Model pengembangan terdistribusi ini kemudian menjadi inspirasi untuk proyek-proyek lain dan membantu transformasi cara perusahaan mengelola software.
 # Kesimpulan
 Proyek Linux (1991) berhasil membuktikan viabilitas pengembangan terdistribusi dengan menarik kontribusi global melalui lisensi open source. Ini mengubah pola hubungan open source dan closed source dari konfrontasi menjadi koeksistensi, di mana open source jadi infrastruktur strategis bagi industri teknologi modern.
+# Daftar Pustaka
+Weber, S. (2004). The Success of Open Source. Harvard University Press.
