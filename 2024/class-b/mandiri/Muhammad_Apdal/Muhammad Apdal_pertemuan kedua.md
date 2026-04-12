@@ -1,4 +1,4 @@
-# Tugas Resume : Apa Yang Dimaksud Dengan Metodologi Agama Menurut Buku Homo Deus?
+# Tugas Resume : Apa Yang Dimaksud Dengan Metodologi Sains Menurut Buku Homo Deus?
 
 ## Pendahuluan
 Seiring dengan perkembangan ilmu pengetahuan dan teknologi, manusia semakin berkembang menjadi makhluk intelektual. Seperti yang telah dijelaskan dalam presentasi, hubungan antara sains dan agama sering dipandang sebagai dua pendekatan yang berbeda dalam memahami dunia.

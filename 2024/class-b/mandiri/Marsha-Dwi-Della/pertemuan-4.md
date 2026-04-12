@@ -1,0 +1,2 @@
+## Pendahuluan
+Kita seringkali melihat bahwa teknologi informasi itu hanya sebatas alat teknis saja atau deretan kodingan yang rumit. Padahal, jika kita lihat lebih dalam lagi sejarahnya lewat materi "Transformasi Ekosistem  Teknologi" yang di presentasikan oleh kelompok  3 dan juga pada buku seperti *The Innovators* karya *Walter Isaacson*, teknologi itu sebenarnya tidak pernah netral. Di balik setiap sistem yang kita gunakan, selalu saja ada pertikaian ideologi di balik ekosistem teknologi tersebut. Yang pada akhirnya ini membentuk wajah dunia digital kita hingga saat ini.

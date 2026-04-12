@@ -143,25 +143,11 @@ Menurut jean Baudrillard teknologi sekarang sudah tidak bisa lagi dilihat sekeda
 
 2.3 Memberikan contoh kasus berdasarkan pengalaman pribadi terkait konsep teknologi dalam sudut pandang hiperrialitas
 
-Contoh kasus 
+Contoh kasus pada game pokemon Go 
 
-1. Contoh kasus Unggahan foto pada media sosial
-Perkembangan teknologi digital telah membawa perubahan besar dalam kehidupan sehari-hari, khususnya dalam cara manusia memandang realitas. Dalam perspektif hiperrialitas, kehidupan modern tidak lagi sepenuhnya didasarkan pada kenyataan, melainkan pada representasi yang dibentuk melalui media. Salah satu contoh nyata dapat dilihat pada pengguna media sosial, dimana ada seseorang cenderung menampilkan citra diri yang telah diubah agar terlihat lebih menarik dan ideal.Foto dan video sehingga tidak lagi mencerminkan kondisi yang sebenarnya. 
+Realita tergantikan oleh simulasi dalam konteks hiperrealitas, yaitu contoh pada hiperrealitas terdapat pada fenomena game pokemon go ialah dimana pemain game pokemon Go merasa sedang monster-monster pokemon serta arena-arena bermain seperti pokestop dan juga gym dan para pemain dengan sesuka hati melakukan aktivitas mereka didunia permainan mereka sendiri, dimana makna, tanda, kode sudah tidak berlaku lagi.
 
-Fenomena ini juga berdampak pada pembentukan indentitas diri. Banyak individu, terutama remaja, membangun jati dirinya berdasarkan standar yang berkembang didunia digital. Mereka sering membandingkan diri dengan influencer atau figur publik yang menampilkan kehidupan sempurna, sehingga menimbulkan rasa tidak percaya diri dan ketidakpuasan terhadap diri sendiri. Dalam hal ini, identitas yang terbentuk bukan lagi hasil refleksi pengalaman nyata, melainkan kontruksi sosial yang dipengaruhi oleh citra digital. 
-
-Selain itu, konsep hiperrealitas juga dapat dilihat dalam tayangan reality show ditelevisi. Meskipun diklain sebagai gambaran kehidupan nyata, pada kenyataan banyak adegan yang telah diatur atau dipengaruhi oleh kebutuhan produksi. Individu yang terlibat dalam acara tersebut cenderung menyesuaikan perilakunya agar sesuai ekspetasi penonton. Akibatnya, realitas yang ditampilkan karena telah bercampur dengan unsur simulasi yang diciptakan oleh media. 
-
-Dengan demikian, teknologi tidak hanya berfungsi sebagai alat komunikasi, tetapi juga sebagai pembentuk realitas baru dalam kehidupan manusia. Kondisi ini menuntut adanya kesadaran kritis agar individu mampu membedakan antara kenyataan dan representasi semu. Tanpa kesadaran tersebut, manusia beresiko terjebak dalam dunia hiperrealitas yang dapat memengaruhi cara berpikir, berperilaku, dan membangun identitas diri. 
-
-2. Contoh kasus Tempat Wisata
-Hiperrialitas merujuk pada kondisi ketika batas antara kenyataan dan simulasi menjadi kabur, sehingga kesulitan membedakan mana yang benar-benar nyata. Dalam konteks ini, informasi yang beredar dimedia tidak lagi sekadar mempresentasikan realitas, tetapi justru membentuk realitas baru yang sering kali lebih dipercaya oleh masyarakat dibandingkan kondisi sebenarnya.
-
-Contoh nyata dapat ditemukan oada konten viral menngenai tempat wisata. Banyak destinasi ditampilkan melalui foto atau vidio yang telah melalui proses editing, seperti penggunaan filter warna, pengaturan pencahayaan, serta pengambilan sudut tertentu yang membuat lokasi tersebut tampak lebih indah, bersih, dan menarik. konten btersebut kemudian menyebar luas dimedia sosial dan dipercaya melalui proses verifikasi terhadap kondisi aslinya. 
-
-Namun, ketika pengunjung ddatang langsung ke lokasi, sering kali mereka menemukan kenyataan yang berbeda. Tempat wisata tersebut mungkin lebih ramai, kurang terawat, atau tidak seindah yang berada dividio dalam konten digital. Meskipun demikian, citra yang telah terbentuk dalam media sosial tetap memegaruhi persepsi banyak orang. Mereka cenderung lebih mempercayai representasi visual yang telah dikontruksi dibandingkan pengalaman nyata yang mereka alami sendiri. 
-
-Dalam perspektif hiperrealitas, kondisi ini menunjukkan bahwa simulasi yang dihasilkan oleh teknologi telah menggantikan realitas itu sendiri. Individu tidak lagi berinteraksi dengan kenyataan secara langsung, melainkan dengan citra yang telah dibentuk oleh media. Oleh karena itu, diperlukan kesadaran kritis dalam menyikapi informasi digital agar masyarakat tidak mudah terjebak dalam realitas semu yang dapat memengaruhi cara pandang dan pengambilan keputusan dalam kehidupan seharai-hari. 
+Manusia sering bermaim pokemom Go, dia menganggap jika di gym itu untuk tempat pertarungan, akan tetapi pada manusia umumnya didunia nyata tempat gym yaitu tempat yang digunakan untuk olahraga. Maka dari itu, iniah hiperrealitas yang pembangkitan realitasnya tanpa asal usul melalui model.
 
 2.4 Bagaimana perbedaan teknologi sebagai mitos dan teknologi alat menggunakan pengalaman internal dan terpersonalisasi
 
@@ -187,6 +173,8 @@ Dengan demikian, perbedaan antara teknologi sebagai alat dan mitos terletak pada
 Baudrillard, Jean. 1994. Simulacra and simulation Ann Arbor: University of Michigan Press. 
 
 Baudrillard, Jean. 1981. Simulacres et Simulation. Paris: Editions Galilee. 
+
+Mythologies (French: Mythologies, lit. 'Mythologies') is a 1957 book by Roland Barthes
 
 
 

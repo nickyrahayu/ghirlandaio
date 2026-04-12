@@ -1,0 +1,3 @@
+# Contoh Kasus yang Menunjukkan Teknologi Ditekan karena Mengganggu Kapitalisme
+# Pendahuluan
+Dalam sistem kapitalisme, teknologi seharusnya menjadi alat kemajuan membuat hidup lebih mudah, lebih murah, dan lebih efisien. Namun kenyataannya tidak selalu begitu. Karl Marx dalam Das Kapital menjelaskan bahwa di bawah sistem kapitalisme, teknologi tidak dikembangkan atau ditekan berdasarkan manfaatnya bagi masyarakat, melainkan berdasarkan seberapa besar bisa menghasilkan keuntungan bagi pemilik modal. Ketika sebuah teknologi baru justru mengancam keuntungan bisnis yang sudah berkuasa, maka teknologi itu akan dihadang bukan karena buruk, tapi karena mengancam posisi mereka. Kasus AT&T memblokir sistem telepon ROLM adalah contoh nyata dari dinamika ini.
