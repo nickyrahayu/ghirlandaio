@@ -134,7 +134,7 @@ Vektor keamanan siber bagi perpustakaan digital atau arsip digital mengacu kepad
    3. Faktor tata kelola dan kebijakan
 
       Faktor ini merupakan di mana institusi perlu mengangkat standar internasional seperti ISO/IEC 27001 atau kerangka kerja NIST sebagai prosedur baku dalam manajemen resiko dan keamanan informasi. Hal ini juga perlu dijalankan bersama Standarisasi Prosedur Operasional (SOP) yang mencakup klasifikasi arsip, jadwal retensi, penggunaan audit untuk melacak aktivitas pengguna dan disiplin dalam pencacatan metadata untuk menjagaa utentisistas
-      # BAB III PENUTUP
+# BAB III PENUTUP
 ## 3.1 Kesimpulan
 Perkembangan teknologi membawa kemudahan dalam pengelolaan perpustakaan dan arsip digital, namun juga meningkatkan risiko ancaman siber. Oleh karena itu, penerapan prinsip keamanan seperti kerahasiaan, integritas, dan ketersediaan menjadi sangat penting untuk melindungi data dan menjaga kepercayaan publik.
 
