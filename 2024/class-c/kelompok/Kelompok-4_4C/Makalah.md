@@ -128,7 +128,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 
 ##### **1. Books are for use; dari buku ke informasi**
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; Pada era modern, makna "buku" dalam hukum pertama mulai diperluas secara fundamental. Gorman (1995) secara langsung menyatakan bahwa etika utama perpustakaan adalah "Pelayanan kepada individu, Komunitas, dan masyarakat secara keseluruhan" dan bukan lagi sekedar pelayanan terhadap buku. Reformulasi huku pertama menjadi "Library serve humanity" mencerminkan kenyataan bahwa perpustakaan tidak hanya berisi buku, tetapi juga jurnal, film, rekaman suara, dan berbagai format lainnya. Pada era ini, perpustakaan mulai bertransisis dari paradigma *custody* (penjagaan koleksi ke paradigma *acces* (akses terhadap informasi).
+&nbsp;&nbsp;&nbsp;&nbsp; Pada era modern, makna "buku" dalam hukum pertama mulai diperluas secara fundamental. Gorman (1995) secara langsung menyatakan bahwa etika utama perpustakaan adalah "Pelayanan kepada individu, Komunitas, dan masyarakat secara keseluruhan" dan bukan lagi sekedar pelayanan terhadap buku. Reformulasi huku pertama menjadi "Library serve humanity" mencerminkan kenyataan bahwa perpustakaan tidak hanya berisi buku, tetapi juga jurnal, film, rekaman suara, dan berbagai format lainnya. Pada era ini, perpustakaan mulai bertransisis dari paradigma custody (penjagaan koleksi ke paradigma acces (akses terhadap informasi).
 </p>
 
 ##### **2. Every reader his book; Inklusivitas yang lebih luas**
@@ -138,7 +138,7 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 
 ##### **3. every book its Reader; Kataloh Komputer dan Akses Terbuka**
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; Hukum ketiga pada era modern mendapatkan manifestasi paling nyata dalam pengembangan Online Public Access Cataloh (OPAC( pada tahun 1970 dan 1980 an. Sistem katalog komputer ini memungkinkan pembaca untuk mencarikoleksi perpustakaan jauh kebih efisien dibandingkan katalog kartu Konvensional. Gorman (1995) dalam hukum ketiganya mendorong penggunaan teknologi secara cerdas: ia menyatakan nahwa "ia menyatakan bahwa "katalog daringlebih unggul daripada kataloh kartu dan mikrofilm" sebagai contohnyata teknologi yang memperkuat layanan tanpa mengorbankan misi perpustakaan
+&nbsp;&nbsp;&nbsp;&nbsp; Hukum ketiga pada era modern mendapatkan manifestasi paling nyata dalam pengembangan Online Public Access Cataloh (OPAC) pada tahun 1970 dan 1980 an. Sistem katalog komputer ini memungkinkan pembaca untuk mencarikoleksi perpustakaan jauh kebih efisien dibandingkan katalog kartu Konvensional. Gorman (1995) dalam hukum ketiganya mendorong penggunaan teknologi secara cerdas: ia menyatakan nahwa "ia menyatakan bahwa "katalog daringlebih unggul daripada kataloh kartu dan mikrofilm" sebagai contohnyata teknologi yang memperkuat layanan tanpa mengorbankan misi perpustakaan
 </p>
 
 ##### **4. Save the time of the reader; Otomasi layanan**
@@ -192,10 +192,48 @@ Assalamualaikum Warahmatullahi Wabarakatuh.
 &nbsp;&nbsp;&nbsp;&nbsp; Hukum kelima, yang sudah visioner sejak dirumuskan pada 1931, kini menemukan resonasinya yang paling kuar di era digital. Safii (2018) merumuskan ulang hukum kelima sebagai 'pembelajaran bersama (online dan Offline) "Menurutnya, tidak seharusnya ada perbedaan antara perpustakaan di dunia nyata dan dunia digital. Jika ada pustakawan yang dapat berinteraksi di gedung perpustakaan, maka seharusnya juga ada pustakawan yang dapat berinteraksi secara daring.
 </p>
 
-<p aligm="justify">
+<p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Nurozi (2004) menegaskan bahwa Web, seperti perpustakaan adalah organisme yang tumbuh: "web tumbuh dan berubah dan akan terus melakuknya. Perubahan dan pertumbuhan berjalan beriringan, dan memerlukan fleksibilitas dalam pengelolaan koleksi." Hukum Kelima mengakui bahwa pertumbuhan pasti akan terjadi direncanakan secara sistematis. Perpustakaan era digitak telah berevolusi menjadi ekosistem informasi yang mencakup koleksi fisik dan digital layanan in person dan virtual.
 </p>
 
+#### **2.2. Jelaskan konsep Cyberethic dan Hubungannya dengan Perpustakaan Digital**
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Cyberethic atau etika siber adalah cabang etika yang berfokus pada perilaku manusia di dunia digital dan internet. Secara lebih spesifik, Syberethicberkaitan dengan pertanyaan tentang apa yang benar dan salah dalam aktifitas yang melibatkan komputer, jaringan dan internet termasuk keamanan siber, privasi, kebebasan berekspresi, hak cipta, dan akses terhadap informasi.
+</p>
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Christen, Gordijn dan Loi (2020) menunjukan bahwa keamanan siber (sybersecurity) yang berlebihan dapat melanggar nilai-nilai mendasar seperti kesetaraan, keadilan, kebebasan, dan privasi. Namun sebaliknya, mengabaikan keamanan siber dapat merusak kepercayaan dan keyakinan warga terhadap infrastruktur digital, pembuat kebijakan, dan otoritas negara. Dilema inilah yang menjadi inti dari persoalan cyberethic, bagaimana menyeimbangkan keamanan dengan nilai-nilai etis lainnya.
+</p>
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Dalam konteks perpustakaan digital, Syberethic mencakup tanggung jawab moral para pustakawan dan pengelola perpustakaan dalam melindungi koleksi digital, menjaga privasi pengguna, memastikan akses yang adil terhadap informasi, serta mengelola ancaman informasi secara bertanggung jawab.
+</p>
+
+#### &nbsp;&nbsp; 2.2.1. **Nilai-Nilai dalam Cyberethic dan Hubungannya dengan Perpustakaan Digital**
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Van de Poel (2020), dalam bukunya yang diedit oleh Christen, Gordijn dan Loi, mengidentifikasi empat nilai utama yang harus dipertimbangkan dalam pengambilan keputusan terkait keamanan siber. Keempat nilai ini membentuk fondasi dari cyberethic dan relevan bagi pengelolaan perpustakaan digital.
+</p>
+  
+##### **1. Keamanan (security)**
+<p align="justify">
+&nbsp;&nbsp;&nbsp; Nilai pertama adalah keamanan, yang secara umum dapat dipahami sebagai kondisi bebas dari bahaya atau ancaman. Van de poel (2020) mendefinisikan keamanan sebagai "keadaan bebas dari bahaya dan ancaman" dalam konteks keamanan siber, ini mencakup keamanan individual, keamanan nasional, dan keamanan sistem komputer. Bagi perpustakaan digital, nilai keamanan ini terwujud dalam kewajiban untuk melindungi koleksi digital dari kerusakan, pencurian atau pemanipulasian serta melindungi data pribadi pengguna dari akses yang tidak sah. 
+</p>
+
+##### **2. Privasi (Privacy)**
+<p align="justify">
+&nbsp;&nbsp;&nbsp; Nilai kedua adalah Privasi. Van de Poel (2020) menjelaskan bahwa ini mencakup nilai-nilai seperti otonomi moral, martabat manusia, identitas,  kebebasan, anonimitas, dan kerahasiaan. Nilai-nilai ini merespon situasi yang bermasalah secara moral, seperti pengumpulan data pribadi dalam jumlah besar secara rahasia untuk tujuan keamanan siber. Relevansinya dengan perpustakaan digital sangat kuat. Perpustakaan harus menghormati dan melindungi hak privasi pengguna.
+</p>
+
+##### **3. keadilan (fairness)**
+<p align="justify">
+&nbsp;&nbsp;&nbsp; Nilai ketiga adalah keadilan, yang mencakup nilai-nilai seperti kesetaraan, akses yang bebas diskriminasi dan juga kebebasan. Dalam Konteks Perpustakaan digital, nilai keadilan ini berkaitan langsung dengan hukum kedua Ranganathan. Setiap pengguna berhak atas sumber daya informasi tanpa memandang kelas sosial, jenis kelamin, usia, kelompok etnis atau agama. Perpustakaan digital yang beretika harus memastikan bahwa sistem keamanannya tidak menjadi penghalang akses bagi pengguna yang sah.
+</p>
+
+##### **4. Akuntabilitas (Accountability)**
+<p align="justify">
+&nbsp;&nbsp;&nbsp; Nilai keempat adalah akuntabilitas yang mencakup nilai-nilai seperti tranparasi, keterbukaan dan kemampuan untuk menjelaskan (explainability). Van de Poel (2020) menegaskan bahwa akuntabilitas sangat relevan karena langkah-langkah keamanan siber yang diambil oleh lembaga dapat berpotensi merugikan pihak lain, sehingga memerlukan pertanggungjawaban. Bagi Pustakawan, Akuntablitas berarti kewajiban untuk menjelaskan kepada pengguna bagaimana data mereka dikumpulkan, disimpan dan digunakan.
+</p>
+  
 #### **2.3. Prinsip Dasar Keamanan Cyber bagi Perpustakaan Digital dan Arsip Digital**
 <p align="justify">
 &nbsp;&nbsp;&nbsp;Keamanan informasi merupakan aspek vital dalam dunia digital yang terus berkembang pesat. Guna menghadapi berbagai ancaman yang semakin kompleks, perpustakaan harus memastikan bahwa data dan informasi yang mereka miliki tetap terlindungi dengan baik. Salah satu landasan utama dalam membangun keberlanjutan keamanan informasi adalah Triad CIA. Triad CIA merupakan kepanjangan dari segitiga (C) confidentiality, (I) integrity, (A) availability, di mana hal ini harus dipahami oleh siapa pun yang melindungu sistem informasi.
