@@ -3,7 +3,7 @@
 *Resume Hasil Presentasi Kelompok 4: Perpustakaan dan Kearsipan Digital: Evolusi 5 Hukum, Prinsip Siber dan Keamanan Data* 
 
 ## Pendahuluan
-Sekarang ini hampir semua aktivitas sudah pakai teknologi digital, mulai dari komunikasi sampai penyimpanan data. Tapi di balik kemudahan itu, ada ancaman yang perlu diwaspadai, salah satunya malware. Malware sering terjadi disebabkan masalah di perangkat, mulai dari eror sampai kebocoran data. Karena itu, penting untuk memahami menganai malware sangat diperlukan untuk meningkatkan kesadaran akan keamanan digital.
+Sekarang ini hampir semua aktivitas sudah pakai teknologi digital, mulai dari komunikasi sampai penyimpanan data. Tapi di balik kemudahan itu, ada ancaman yang perlu diwaspadai, salah satunya malware. Malware sering terjadi disebabkan masalah di perangkat, mulai dari eror sampai kebocoran data. Karena itu, penting untuk memahami mengenai malware sangat diperlukan untuk meningkatkan kesadaran akan keamanan digital.
 
 ## Pembahasan
 Malware merupakan singkatann dari *malicious software* yang berarti perangkat lunak berbahaya. Malware adalah program yang dibuat oleh pihak tidak bertanggung jawab dengan tujuan untuk merusak, mengganggu atau mengambil alih sistem komputer tanpa sepengetahuan pengguna.[^1] Malware dapat menyerang perangkat melalui berbagai cara, seperti file yang diunduh, aplikasi ilegal atau tautan mencurigakan. Dampak dari malware sangat beragam, mulai dari kerusakan data, pencurian informasi pribadi, hingga pengambilan sistem secara ilegal.
