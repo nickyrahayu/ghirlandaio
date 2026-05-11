@@ -286,7 +286,7 @@ pada tim yang menang, nilai uts dan formatif akan disamakan pada nilai uas
 ---
 
 <p align="center">
-  <img src="bagan_uas.png" width="100%">
+  <img src="/2024/class-b/bagan_uas.png" width="100%">
 </p>
 
 ---
