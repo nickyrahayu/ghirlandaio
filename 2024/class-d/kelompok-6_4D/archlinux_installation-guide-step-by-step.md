@@ -163,6 +163,17 @@ tanpa pipewire audio tidak akan berjalan, tanpa dolphin atau thunar kita tidak b
 install semuanya menggunakan
 >__pacman -S plasma kitty dolphin pipewire pipewire-jack dolphin wofi ttf-jetbrains-mono-nerds firefox-developer-edition__ <br>
 
+## enabke service
+> systemctl enable systemd-networkd.socket
+> systemctl enable systemd-resolved
+> systemctl enable iwd.service
+> systemctl enable NetworkManager.service
+> systemctl enable sddm // jika menggunakan sddm
+
+## service troubleshoot
+jika internet sering error atau bertabrakan kemungkinann karena service nya bertabrakan maka enable saja salah satu dari service yang ada 
+systemctl disable iwd.service 
+
 __cd boot/ untuk pindah ke direktori boot__
 
 ## bootloader 
@@ -175,12 +186,15 @@ menggunakan GRUB sebagai bootloader dan mendownload efibootmgr untuk manage uefi
 > __mkinitcpio -P__ <br>  
 membuat image boot linux
 
-exit untuk keluar dari __arch-chroot /mnt__
+__exit__
+untuk keluar dari __arch-chroot /mnt__
 
-umount -R /mnt // untuk men unmount dari mount point agar tidak terjadi error atau crash yang di inginkan setelah reboot 
+__umount -R /mnt__ // untuk men unmount dari mount point agar tidak terjadi error atau crash yang di inginkan setelah reboot 
 reboot dan cabut USB flashdisk agar tidak boot kembali ke UEFI boot environment 
 
-#Instalasi linux selesai 
+__reboot__
+
+#__Instalasi linux selesai__
 
 
 
