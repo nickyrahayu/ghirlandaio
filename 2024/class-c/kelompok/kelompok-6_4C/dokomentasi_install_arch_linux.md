@@ -65,7 +65,7 @@ systemctl start NetworkManager
 ```
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8786dcaf-21dc-4103-b971-a47c6139c892" />
 
-## Cara Aktifkan Audio
+## Cara Aktifkan Audio (Pipewire)
 Buka terminal
 ```
 sudo pacman -S sof-firmware alsa-firmware alsa-uncm-conf plasma-pa
