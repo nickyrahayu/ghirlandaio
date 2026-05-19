@@ -157,7 +157,7 @@ tunggu hingga installasi selesai
 2. Seletah semuanya selesai buka Doplphin File Manager
    
 ## 2.5 Kitty
-Kitty merupakan emulator terminal berbasis OpenGL yang dapat diprogram dan mendukung fitur TrueColor, ligatur, ekstensi protokol input keyboard, serta rendering gambar di dalam terminal. Kitty juga memiliki kemampuan tiling seperti GNU Screen atau tmux sehingga pengguna dapat membuka dan mengatur beberapa tab maupun jendela terminal dengan mudah melalui kombinasi tombol keyboard. Selain itu, Kitty menyediakan fitur tambahan yang disebut kittens, yaitu subprogram untuk berbagai kebutuhan seperti menampilkan gambar di terminal (icat), membandingkan file (diff), serta mengakses clipboard sistem (clipboard).
+Kitty merupakan emulator terminal berbasis OpenGL yang dapat diprogram dan mendukung fitur TrueColor, ligatur, ekstensi protokol input keyboard, serta rendering gambar di dalam terminal. Kitty juga memiliki kemampuan tiling seperti GNU Screen atau tmux sehingga pengguna dapat membuka dan mengatur beberapa tab maupun jendela terminal dengan mudah melalui kombinasi tombol keyboard. 
 
 1. Install Kitty menggunakan
 
