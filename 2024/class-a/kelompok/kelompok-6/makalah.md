@@ -47,25 +47,17 @@ dalam  menginstall desktop Arch Linux terdapat beberapa komponen penting yang ha
 ## 1.2 Rumusan Masalah
 
 - Baigamana langkah instalasi NetworkManager?
-
 - Baigamana langkah instalasi Plasma?
-
 - Baigamana langkah instalasi Pepwire?
-
 - Baigamana langkah instalasi Dolphin?
-
 - Baigamana langkah instalasi Kitty?
 
 ## 1.3 Tujuan Masalah
 
 - Menjelaskan langkah instalasi NetworkManager.
-
 - Menjelaskan langkah instalasi Plasma.
-
 - Menjelaskan langkah instalasi Pepwire.
-
 - Menjelaskan langkah instalasi Dolphin.
-
 - Menjelaskan langkah instalasi Kitty.
   
 # BAB II PEMBAHASAN
@@ -168,6 +160,15 @@ Kitty merupakan emulator terminal berbasis OpenGL yang dapat diprogram dan mendu
 tunggu hingga installasi selesai 
 
 2. Seletah semuanya selesai buka Terminal Kitty.
+
+## 2.6 Tahap Akhir Instalasi
+Setelah seluruh proses instalasi dan konfigurasi komponen NetworkManager, KDE Plasma, PipeWire, Dolphin, dan Kitty selesai dilakukan, maka langkah akhir yang harus dilakukan adalah melakukan restart sistem untuk menerapkan seluruh konfigurasi yang telah diatur. Dengan merestart sistem menggunakan perintah;
+
+```
+reboot
+```
+
+Saat proses restart berlangsung, flashdisk installer Arch Linux harus dilepaskan atau dicabut agar sistem dapat melakukan booting dari penyimpanan utama (hard disk atau SSD) yang telah terpasang sistem Arch Linux. Jika proses instalasi berhasil, maka sistem akan masuk ke tampilan login SDDM. Setelah melakukan login, pengguna akan masuk ke desktop KDE Plasma yang telah dilengkapi dengan NetworkManager, PipeWire, Dolphin, dan Kitty sehingga sistem siap digunakan untuk aktivitas sehari-hari.
 
 # BAB III PENUTUP
 
