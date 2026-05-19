@@ -4,19 +4,19 @@
 
 <p align="center"><img width="690" height="599" alt="690px-logouinsyarifhidayatullahjakarta" src="https://github.com/user-attachments/assets/656b29bd-4701-4b2d-8d57-e0c13afece40" />
 
-**Dosen Pengampu:**
+<p align="center"><b>Dosen Pengampu:<b>
 
-Al Muhdil Karim, S.IP, M.Hum.
+<p align="center">Al Muhdil Karim, S.IP, M.Hum.
 
-**Disusun Oleh Kelompok 6:**
+<p align="center"><b>Disusun Oleh Kelompok 6:<b>
 
-1. Kyshya Kanaya (12402051010006)
+<p align="center"><b>1. Kyshya Kanaya (12402051010006)
 
-2. Nayla Rizky Arsi Ainun (12402051030038)
+<p align="center"><b>2. Nayla Rizky Arsi Ainun (12402051030038)
 
-3. Dhea Azzahra Putri (12402051050113)
+<p align="center"><b>3. Dhea Azzahra Putri (12402051050113)
 
-<p align="center"><small>Kelas A
+<p align="center"><small> Kelas A
 
 <p align="center"><b>PROGRAM STUDI ILMU PERPUSTAKAAN</b></p>
 
@@ -47,95 +47,162 @@ dalam  menginstall desktop Arch Linux terdapat beberapa komponen penting yang ha
 ## 1.2 Rumusan Masalah
 
 - Baigamana langkah instalasi NetworkManager?
-
 - Baigamana langkah instalasi Plasma?
-
 - Baigamana langkah instalasi Pepwire?
-
 - Baigamana langkah instalasi Dolphin?
-
 - Baigamana langkah instalasi Kitty?
 
 ## 1.3 Tujuan Masalah
 
 - Menjelaskan langkah instalasi NetworkManager.
-
 - Menjelaskan langkah instalasi Plasma.
-
 - Menjelaskan langkah instalasi Pepwire.
-
 - Menjelaskan langkah instalasi Dolphin.
-
 - Menjelaskan langkah instalasi Kitty.
   
 # BAB II PEMBAHASAN
 
 ## 2.1 NetworkManager
+
 NetworkManager adalah program yang digunakan untuk mendeteksi dan mengatur konfigurasi jaringan agar sistem dapat terhubung ke internet secara otomatis, baik melalui jaringan kabel maupun nirkabel. Pada jaringan wireless, NetworkManager dapat memprioritaskan jaringan yang sudah dikenal dan secara otomatis berpindah ke jaringan yang lebih stabil, sedangkan pada jaringan kabel layanan ini akan lebih diprioritaskan dibandingkan koneksi wireless. Selain itu, NetworkManager juga mendukung koneksi modem dan beberapa jenis VPN sehingga memudahkan pengguna dalam mengelola berbagai jenis koneksi jaringan pada sistem Linux.
 
+1. Instalasi NetworkManager menggunakan
+
+   ```
+   sudo pacman -S networkmanager
+   ```
+
+2. Mengaktifkan dan Menjalankan NetworkManager
+
+   ```
+   sudo systemctl enable NetworkManager
+   ```
+
+   ```
+   sudo systemctl start NetworkManager
+   ```
+
+3. Mengecek Status Service
+
+   ```
+   systemctl status NetworkManager
+   ```
+
+   Jika berhasil, maka akan muncul status seperti berikut:
+
+   ```
+   Active: active (running)
+   ```
+
 ## 2.2 Plasma
-KDE Plasma merupakan proyek perangkat lunak yang terdiri dari lingkungan desktop KDE Plasma, berbagai aplikasi KDE Applications, serta pustaka tambahan Qt yang disebut KDE Frameworks. KDE Plasma dikenal sebagai desktop environment yang modern, ringan, dan memiliki tampilan antarmuka yang menarik sehingga banyak digunakan pada sistem Linux desktop. Penjelasan Installasi KDE Plasma:
+
+Plasma adalah produk unggulan KDE, yang menawarkan lingkungan desktop tersedia yang paling dapat disesuaikan. Komunitas KDE mempunyai sasaran untuk membuatnya sederhana secara baku, dan berdaya ketika dibutuhkan. Plasma dirancang agar mudah digunakan, fitur-fitur yang tersedia di plasma itu seperti : Launcer, System Tray, Notification, Dicover dll. Plasma menawarkan lebih banyak fleksibilitas bagi pengguna yang mungkin ingin mengurangi ukuran instalasi mereka di kemudian hari.  KDE Plasma dikenal sebagai desktop environment yang modern, ringan, dan memiliki tampilan antarmuka yang menarik sehingga banyak digunakan pada sistem Linux desktop. Penjelasan Installasi KDE Plasma:
 
 1. Pertama-tama pastinya kita akan masuk ke Arch Linux terlebih dahulu, Jangan lupa untuk selalu memeriksa updetan terbaru
 
-``` sudo pacman -syyu ```
+``` 
+sudo pacman -Syyu
+```
 
 2. Lalu kemudian akan melakukan installasi KDE Plasma
 
-``` sudo pacman -s xorg plasma plasma-wayland-sesion- kde-applications ```
+``` 
+sudo pacman -S xorg plasma
+```
 
-setelah sudah semua, cukup all saja dan default 1, dan yang terakhir y
+   setelah sudah semua, cukup all saja dan default 1, dan yang terakhir y
 
 3. Setela itu aktifkan SDDM, SDDM ini merupakan display manager dari KDE Plasma
 
-``` sudo systemsti enable sddm.service ``` kemudian kita start ``` sudo systemcti start sddm.service ```
+```
+sudo systemctl enable sddm.service
+```
+
+   Kemudian kita start 
+
+``` 
+sudo systemctl start sddm.service
+```
 
 ## 2.3 Pipwire
-PipeWire merupakan kerangka kerja multimedia tingkat rendah yang digunakan untuk mengelola audio dan video pada sistem Linux. Layanan ini juga dapat dikonfigurasi sebagai server audio maupun server penangkap video. Selain itu, PipeWire mendukung penggunaan container seperti Flatpak dan menggunakan sistem keamanan berbasis izin seperti Polkit untuk mengatur akses perekaman layar maupun audio sehingga lebih aman dan fleksibel digunakan pada desktop Linux modern. 
+
+PipeWire adalah sistem pengelola audio dan multimedia pada Linux yang digunakan untuk mengatur suara speaker, mikrofon, headset, Bluetooth audio, dan aplikasi multimedia lainnya. PipeWire merupakan pengganti modern untuk PulseAudio dan JACK karena memiliki performa lebih baik, latensi rendah, serta kompatibilitas yang luas. Pada Arch Linux, PipeWire sering digunakan pada desktop environment seperti KDE Plasma dan GNOME untuk mendukung sistem audio yang stabil dan modern.  
 
 1. Instalasi PipeWire menggunakan
 
-   ``` sudo pacman -S pipewire ```. 
+   ```
+   sudo pacman -S pipewire
+   ``` 
 
 2. Jika ingin install PipeWire beserta komponen pendukungnya gunakan
    
    ``` sudo pacman -S pipewire wireplumber pipewire-pulse pipewire-alsa pipewire-jack ```
 
-3. Setelah instalasi selesai, aktifkan layanan PipeWire, PulseAudio dan WirePlumber.
+3. Setelah instalasi selesai, aktifkan dan jalankan PipeWire, PulseAudio dan WirePlumber.
 
-   ``` systemctl --user enable --now pipewire.service ```
+   ```
+   systemctl --user enable --now pipewire.service
+   systemctl --user enable --now pipewire-pulse.service
+   systemctl --user enable --now wireplumber.service
+   ```
 
-   ``` systemctl --user enable --now pipewire-pulse.service ```
-
-   ``` systemctl --user enable --now wireplumber.service ```
-
-5. Untuk memastikan PipeWire berjalan dengan baik gunakan
+4. Untuk memastikan PipeWire berjalan dengan baik gunakan
    
-   ``` pactl info ```. Jika instalasi berhasil maka akan muncul tulisan ``` Server Name: PulseAudio (on PipeWire) ``` , tulisan tersebut menunjukkan bahwa PipeWire telah aktif dan berfungsi sebagai sistem audio utama pada Arch Linux.
+   ```
+   pactl info
+   ```
+
+   Jika instalasi berhasil maka akan muncul tulisan
+
+   ```
+   Server Name: PulseAudio (on PipeWire)
+   ```
+
+   Tulisan tersebut menunjukkan bahwa PipeWire telah aktif dan berfungsi sebagai sistem audio utama pada Arch Linux.
 
 ## 2.4 Dolphin
-Dolphin merupakan file manager bawaan KDE yang digunakan untuk mengelola file dan folder pada sistem Linux.  Selain itu, Dolphin juga mendukung fitur preview file untuk video, gambar, PDF, audio, dan berbagai format lainnya melalui paket tambahan seperti ffmpegthumbs dan kdegraphics-thumbnailers. Penjelasan Installasi KDE Plasma:
+
+Dolphin adalah pengelola file bawaan Plasma. Tujuannya adalah untuk meningkatkan kemudahan penggunaan pada tingkat antarmuka pengguna. Dolphin hanya berfokus sebagai pengelola file. Selain itu, Dolphin juga mendukung fitur preview file untuk video, gambar, PDF, audio, dan berbagai format lainnya. Penjelasan Installasi KDE Plasma:
 
 1. Install Dolphin
 
-``` sudo apt install dolphin ``` tunggu hingga installasi selesai 
+``` 
+sudo pacman -S dolphin
+```
+
+   tunggu hingga installasi selesai 
 
 2. Seletah semuanya selesai buka Doplphin File Manager
    
 ## 2.5 Kitty
-Kitty merupakan emulator terminal berbasis OpenGL yang dapat diprogram dan mendukung fitur TrueColor, ligatur, ekstensi protokol input keyboard, serta rendering gambar di dalam terminal. Kitty juga memiliki kemampuan tiling seperti GNU Screen atau tmux sehingga pengguna dapat membuka dan mengatur beberapa tab maupun jendela terminal dengan mudah melalui kombinasi tombol keyboard. Selain itu, Kitty menyediakan fitur tambahan yang disebut kittens, yaitu subprogram untuk berbagai kebutuhan seperti menampilkan gambar di terminal (icat), membandingkan file (diff), serta mengakses clipboard sistem (clipboard).
+
+Kitty merupakan emulator terminal berbasis OpenGL yang dapat diprogram dan mendukung fitur TrueColor, ligatur, ekstensi protokol input keyboard, serta rendering gambar di dalam terminal. Kitty juga memiliki kemampuan tiling seperti GNU Screen atau tmux sehingga pengguna dapat membuka dan mengatur beberapa tab maupun jendela terminal dengan mudah melalui kombinasi tombol keyboard. 
 
 1. Install Kitty menggunakan
 
-   ``` sudo pacman -S kitty ```
+   ```
+   sudo pacman -S kitty
+   ```
 
-2. Setelah instalasi selesai, jalankan Kitty menggunakan
-  
-   ``` kitty ```
+   tunggu hingga installasi selesai 
+
+2. Seletah semuanya selesai buka Terminal Kitty.
+
+## 2.6 Tahap Akhir Instalasi
+
+Setelah seluruh proses instalasi dan konfigurasi komponen NetworkManager, KDE Plasma, PipeWire, Dolphin, dan Kitty selesai dilakukan, maka langkah akhir yang harus dilakukan adalah melakukan restart sistem untuk menerapkan seluruh konfigurasi yang telah diatur. Dengan merestart sistem menggunakan perintah;
+
+```
+reboot
+```
+
+Saat proses restart berlangsung, flashdisk installer Arch Linux harus dilepaskan atau dicabut agar sistem dapat melakukan booting dari penyimpanan utama (hard disk atau SSD) yang telah terpasang sistem Arch Linux. Jika proses instalasi berhasil, maka sistem akan masuk ke tampilan login SDDM. Setelah melakukan login, pengguna akan masuk ke desktop KDE Plasma yang telah dilengkapi dengan NetworkManager, PipeWire, Dolphin, dan Kitty sehingga sistem siap digunakan untuk aktivitas sehari-hari.
 
 # BAB III PENUTUP
 
 ## 3.1 Kesimpulan
+
+Berdasarkan pembahasan di atas, dapat disimpulakn bahwa Arch Linux adalah sistem operasi Linux yang fleksibel dan dapat di ubah menajadi desktop kontemporer dengan menambahkan komponen penting seperti Network Manager untuk mengatur jaringan internet, Plasma sebagai tampilan desktop, Pipewire untuk mengtur audio, Dolphin sebagai manager file dan Kitty sebagai terminal  modern. Agar sistem bekerja dengan baik proses insatalasi dapat dilakukan secara bertahap. Arch Linux dapat digunakan sebagai desktop yang ringan dan menarik setelah semua proses selesai dan sistem dihidupkan kembali. Proses instalasi juga meningkatkan pemahaman pengguna tentang cara kerja dan pembangunan sistem desktop Linux.
 
 # DAFTAR PUSTAKA
 
@@ -150,3 +217,5 @@ Kitty - ArchWiki. (2026, April 10). https://wiki.archlinux.org/title/Kitty
 NetworkManager - ArchWiki. (2026, Mei 10). https://wiki.archlinux.org/title/NetworkManager
 
 PipeWire - ArchWiki. (2026, Mei 8). https://wiki.archlinux.org/title/PipeWire
+
+Plasma. Diambil 19 Mei 2026, dari https://kde.org/plasma-desktop/

@@ -1,118 +1,63 @@
-konek internet
-iwctl
+download ISO Arch Linux berikut linknya
+
+masuk ke live environment
+<img width="4080" height="2296" alt="20260518_123135" src="https://github.com/user-attachments/assets/b99fa777-fffe-40ae-86cf-de6e1e72859e" />
+
+verify boot mode
+```
+cat /sys/firmware/efi/fw_platform_size
+```
+
+cek koneksi internet
+<img width="4080" height="2296" alt="20260518_123610" src="https://github.com/user-attachments/assets/3a2ca08b-ab25-48db-afa9-ed527cadd3e4" />
 ```
 iwctl
 ```
+untuk mencari nama list wireless device
 ```
 device list
+```
+inisiasi scan untuk jaringan
+```
 station wlan0 scan
+```
+list seluruh jariangan yang tersedia
+```
 station wlan0 get-networks
-station wlan0 connect NamaWifi
+```
+konek ke jaringan
+```
+station wlan0 connect ssid
+```
+update system jam
 ```
 timedatectl
+```
+partisi disk
 
-partisi
+<img width="2296" height="4080" alt="20260518_123652" src="https://github.com/user-attachments/assets/8b34e0ae-ca39-408b-b90c-8efe68b3626a" />
+```
+cfdisk /dev/sda
+```
+<img width="4080" height="2296" alt="20260518_124124 (1)" src="https://github.com/user-attachments/assets/0d86693c-2acf-4c48-adad-13885766d740" />
+ubah type disk dengan menekan....
+<img width="4080" height="2296" alt="20260518_124119 (1)" src="https://github.com/user-attachments/assets/188841dd-9e8f-4cb0-bd50-71fc21d2a185" />
 
-fdisk -l
+ubah sesuai layout ini
 
-Mirror
-```
-nano /etc/pacman.d/mirrorlist
-```
-packages penting
-```
-pacstrap -K /mnt base linux linux-firmware amd-ucode networkmanager nano sudo grub efibootmgr os-prober dosfstools mtools ntfs-3g man-db man-pages texinfo sof-firmware
-```
-fstab
-```
-genfstab -U /mnt >> /mnt/etc/fstab
-```
-chroot
-```
-arch-chroot /mnt
-```
-set time
-```
-ln -sf /usr/share/zoneinfo/Asia/Jakarta /etc/localtime
-hwclock --systohc
-```
+ketik lsblk -l untuk melihat apakah sudah benar
 
-localization
-```
-pacman -S nano
-```
-masuk ke folder
-```
-nano /etc/locale.gen
-```
-dibuka komentarnya 
-```
-en_US.UTF-8 UTF-8
-```
-jalankan
-```
-locale -gen
-```
+format partisi
 
-ketik
-```
-nano /etc/locale.gen
-```
-ketik
-```
-LANG=en_US.UTF-8
-```
-jalankan
-```
-locale -gen
-```
-hostname
-```
-nano /etc/hostname
-```
+untuk boot
+<img width="4080" height="2296" alt="20260518_130012" src="https://github.com/user-attachments/assets/0d649137-1399-4a9d-8035-228931baa725" />
 
-ketik nama hostname
+untuk root
+<img width="4080" height="2296" alt="20260518_130209" src="https://github.com/user-attachments/assets/9a8ab672-71b2-40e4-bb59-21d3151d057c" />
 
-network management
-pastikan network interface telah dilist dan dienable
-```
-ip a
-ping archlinux.com
-```
-instal networkmanager
-```
-pacman -S networkmanager
-```
-start networkmanager
-```
-systemctl enable NetworkManager.service
-```
+untuk swap
 
-initframs
-```
-mkinitcpio -P
-```
-root password
-```
-passwd
-```
-boot loader
-install efibootmgr
-```
-pacman -S grub efibootmgr
-```
-install grub package
-```
-grub-install --target=x86_64-efi --efi-directory=esp --bootloader-id=GRUB
-```
-```
-grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB
-```
-Use the ```grub-mkconfig tool``` to generate ```/boot/grub/grub.cfg```:
-```
-grub-mkconfig -o /boot/grub/grub.cfg
-```
-reboor
-```
-umount -R /mnt
-```
+mount
+
+
+
