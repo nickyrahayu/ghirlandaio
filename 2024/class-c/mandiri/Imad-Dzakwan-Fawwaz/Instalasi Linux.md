@@ -19,6 +19,31 @@
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ff024c60-2bf0-46ab-8a31-ef9445facd1a" />
 
 ### Langkah 7
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2400fe4a-c163-4258-9c4d-25b6903d1685" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/67671ef1-e187-4878-b5cc-13ccc172f8ed" />
 
 ### Langkah 8
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d2a766b1-4d27-47f6-bdbf-6b6229a0d534" />
+
+### Langkah 9
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/eed13858-e51e-48e4-bdbf-8fa4d5c91b2c" />
+
+### Langkah 10
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e25c6fcc-4e2b-4f04-9543-d40a63e34c41" />
+
+### Langkah 11
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9c1f9dfc-a594-4b00-8647-923854055f8f" />
+
+### Langkah 12
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4217d9db-5cf1-4289-9593-7c1a538b1931" />
+
+### Langkah 13
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/3452d81d-1a04-49e3-b4f0-adb5b6b1d9ad" />
+
+### Langkah 14
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2a2e9f72-b840-4cf1-9ffd-cc58e8c67e0f" />
+
+### Langkah 15
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/340ba101-d6c8-426a-a0e3-4821b49d9c24" />
+
+### Langkah 16
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/933b30c4-7905-4bc6-9474-dd01501978a8" />
