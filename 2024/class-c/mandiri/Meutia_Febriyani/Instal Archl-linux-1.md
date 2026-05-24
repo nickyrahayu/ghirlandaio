@@ -1,4 +1,4 @@
-# Panduan Instalasi Arch Linux
+# Panduan Instalasi Arch Linux 
 untuk memenuhi tugas matakuliah Perpustakaan dan Arsip Digital
 
 ## Masuk ke live evirontment arc linux
