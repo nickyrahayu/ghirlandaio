@@ -4,7 +4,7 @@
 Berdasarkan proses assesment terhadap penugasan, maka diharapkan hal berikut menjadi perhatian bagi peserta didik,
 
 1. Jangan mengunakan Kecerdasan buatan, setelah dilakukan audit dari repository, ditemukan pola kecerdasan buatan dalam hasil penguasan baik kelompok atau invidu, sehingga nilai penugasan yang menggunakan kecerdasan buatan akan diberikan sesuai dengan ketentuan perkuliahan yang berlaku.
-2. Dengan ditemukanya file yang identik antar kelas, maka tugas yang bersangkutan akan di berikan peringatan sebanyak 2 kali, setelah itu dengan pertimbangan cheating yang jauh dari tradisi akademis, maka yang bersangkutan tidak berhak mengikuti proses UAS.
+2. Dengan ditemukanya file yang identik antar kelas, Dengan ini maka memberikan peringatan kepada yang bersangkutan secara khusus dan perserta didik secara umumm bahwa aktvitas plagiasi sebagai pelanggaran akademis yang berat. Diharapkan kesadaran yang bersangkutan untuk menemui saya, atau yang bersangkutan tidak berhak mengikuti proses UAS.
 
 
 
