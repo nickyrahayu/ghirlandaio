@@ -388,6 +388,7 @@ strip: true
 enable_lvm: true
 ```
 
+## Prepare boot
 ```
 cd /boot
 ```
