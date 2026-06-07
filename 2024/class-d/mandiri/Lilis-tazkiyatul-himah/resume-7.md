@@ -6,7 +6,7 @@
 ## LVM on LUKS
 adalah kombinasi dua teknologi di Linux yang digunakan untuk mengatur penyimpanan data sekaligus memberikan keamanan tingkat tinggi.
 LUKS (Linux Unified Key Setup) berfungsi sebagai sistem enkripsi disk, artinya seluruh isi hard disk akan dikunci dan hanya bisa diakses jika 
-pengguna memasukkan password yang benar saat proses booting. Dengan begitu, data didalamnya tidak bisa dibaca pleh orang lain meskipun perangkat 
+pengguna memasukkan password yang benar saat proses booting. Dengan begitu, data didalamnya tidak bisa dibaca oleh orang lain meskipun perangkat 
 dicabut atau dicuri. Sementara LVM (Logical Volume Manager) adalah sistem yang digunakan untuk mengelola partisi secara lebih fleksibel. Dengan LVM,
 pengguna tidak lagi terikat pada pembagian partisi yang kaku seperti pada sistem konvensional. Kapasitas penyimpanan bisa diatur ulang, diperbesar,
 diperkecil, atau dibagi menjadi beberapa volume sesuai kebutuhan tanpa install ulang sistem operasi. Ketika keduanya digabung menjadi LVM on LUKS,
@@ -15,7 +15,7 @@ maka alurnya adalah disk terlebih dahulu dienkripsi menggunakan LUKS, kemudian d
 ## LUKS on LVM
 adalah metode pengaturan storage di Linux yang dimana LVM dibuat terlebih dahulu untuk mengelola partisi secara fleksibel, kemudian LUKS digunakan
 untuk mengenkripsi salah satu atau beberapa logical volume di dalamnya. Artinya tidak semua disk dienkripsi, hanya bagian tertentu saja yang dipilih
-untuk diamankan. Biasanya, metode ini digunakan ketika pengguna ingin melindungi data penting seperti folder /home, sementara sistem operasi tetap
+untuk diamankan. Biasanya, metode ini digunakan ketika pengguna ingin melindungi data penting seperti folder /home , sementara sistem operasi tetap
 bisa berjalan tanpa harus membuka enkripsi seluruh disk saat boot.
 
 ## KeePassXC dan Secret Service
@@ -67,9 +67,11 @@ memori, atau meningkatkan performa jaringan.
 MPD (Music Player Daemon)
 adalah layanan pemutar musik yang berjalan di background (daemon) di Linux. MPD tidak memiliki tampilan sendiri, jadi biasanya dikontrol lewat 
 aplikasi lain (client). Fungsinya untuk memutar musik secara efisien di server atau sistem minimal.
+
 MPV (Media Player Video)
 adalah aplikasi pemutar media yang ringan dan fleksibel untuk memutar video dan audio. MPV dikenal karena performanya yang cepat, kualitas playback 
-yang baik, serta bisa digunakan lewat terminal maupun GUI
+yang baik, serta bisa digunakan lewat terminal maupun GUI.
+
 MPC (Music Player Client)
 adalah aplikasi kecil berbasis terminal yang digunakan untuk mengontrol MPD. Jadi MPC tidak memutar musik langsung, tetapi menjadi remote untuk 
 menjalankan dan mengatur MPD seperti play, pause, atau ganti lagu.
