@@ -206,7 +206,7 @@ cd /boot
 mkdir kernel efi
 ```
 ```
-cd /efi
+cd efi
 ```
 ```
 mkdir linux
@@ -221,7 +221,7 @@ mv vmlinuz-* intel-* kernel
 rm -fr initramfs-*
 ```
 ```
-mv /etc/mkinicpio.conf /etc/mkinitcpio.d/default.conf
+mv /etc/mkinitcpio.conf /etc/mkinitcpio.d/default.conf
 ```
 ```
 nvim /etc/mkinitcpio.d/default.conf
