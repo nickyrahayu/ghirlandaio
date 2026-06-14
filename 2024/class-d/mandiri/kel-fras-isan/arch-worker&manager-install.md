@@ -91,7 +91,7 @@ lvcreate -L size (G | M) [nama grup] -n home
 mkfs.ext4 /dev/[nama grup]/home
 ```
 ```
-mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/[nama grup]/home /mnt/home
+mount --mkdir -o rw,nodev,nosuid,relatime /dev/[nama grup]/home /mnt/home
 ```
 
 ## dock
@@ -103,7 +103,7 @@ lvcreate -L size (G | M) [nama grup] -n dock
 mkfs.ext4 /dev/[nama grup]/dock
 ```
 ```
-mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/[nama grup]/dock /mnt/var/lib/docker
+mount --mkdir -o rw,nodev,nosuid,relatime /dev/[nama grup]/dock /mnt/var/lib/docker
 ```
 
 ## pacstrap
