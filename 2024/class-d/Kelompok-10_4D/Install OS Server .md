@@ -22,9 +22,11 @@ exit
 ```
 lsblk
 ```
+Membagi partisi
 ```
 cfdiks /dev/partisi [sda/nvme0n1p1]
 ```
+minimal partisi
 ```
 boot = 3G [EFI system}
 root = 95G [Linux filesystem]
@@ -42,5 +44,33 @@ masukkan kata sandi
 ```
 cryptsetup luksOpen /dev/[partisi root] [nama device]
 ```
+## Setup LVM 
 ```
-
+pvcreate /dev/mapper/[nama device]
+```
+```
+vgcreate [nama grup] /dev/mapper/[nama device]
+```
+Membuat Logical Volume
+```
+lvcreate -L 8GB [nama grup] -n root
+``````
+```
+lvcreate -L 8GB [nama grup] -n vars
+```
+```
+lvcreate -L 1GB [nama grup] -n vlog
+```
+```
+lvcreate -L 1GB [nama grup] -n vtmp
+```
+```
+lvcreate -L 1GB [nama grup] -n vaud
+```
+```
+lvcreate -L 5GB [nama grup] -n home
+```
+```
+lvcreate -L 5GB [nama grup] -n podman
+```
+## Formating
