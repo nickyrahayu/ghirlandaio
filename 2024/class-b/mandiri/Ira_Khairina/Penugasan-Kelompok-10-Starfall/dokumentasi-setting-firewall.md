@@ -23,6 +23,7 @@ firewall-cmd --info-zone=public || (ini masuk ke public)
 Hapus service yang tidak dipakai karena rawan menjadi celah keamanan.
 ```bash
 	‘firewall-cmd --zone=public --remove-service=dhcpd6-client --permanent’ || Hapus semua selain ssh.
+```
 
 #### 4. Cek apa service sudah terhapus 
 
