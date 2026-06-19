@@ -122,6 +122,8 @@ podman compose up -d
 nvim /etc/containers/registries.conf
 ```
 lalu diubah pada
+
+
 <img width="266" height="24" alt="Screenshot 2026-06-19 121624" src="https://github.com/user-attachments/assets/5e50ce7b-6ca3-488a-a529-e3bef9b7c9aa" />
 
 ```
@@ -138,7 +140,10 @@ nvim /etc/subgid
 nvim /strorage.conf
 ```
 tambahkan
+
+
 <img width="98" height="56" alt="Screenshot 2026-06-19 122601" src="https://github.com/user-attachments/assets/6a192a53-4a18-4ad8-9abd-6b51321ed7d8" />
+
 
 ### Service podman
 ```
