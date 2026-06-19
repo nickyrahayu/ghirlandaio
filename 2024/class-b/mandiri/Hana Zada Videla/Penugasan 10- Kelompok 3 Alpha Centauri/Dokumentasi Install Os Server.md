@@ -50,3 +50,21 @@ mkfs.ext4 /dev/saw/podman
 5. Mounting Semua Partisi
 ```
 
+mount /dev/saw/root /mnt
+
+mount --mkdir -o uid=0,gid=0,fmask=0077,dmask=0077 /dev/nvme0n1p5 /mnt/boot 
+
+mount --mkdir -o rw,nodev,nosuid,relatime /dev/saw/vars  /mnt/var
+
+mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/saw/vlog  /mnt/var/log
+
+mount --mkdir -o rw,nodev,nosuid,noexec,relatime /dev/saw/vaud  /mnt/var/log/audit
+
+mount --m -o rw,nodev,nosuid,noexec,relatime /dev/saw/vtmp  /mnt/var/tmp
+
+mount --mkdir -o rw,nodev,relatime /dev/saw/home  /mnt/home
+
+mount --mkdir -o rw,nodev,nosuid,relatime /dev/saw/podman /mnt/var/lib/containers
+```
+
+6. 
