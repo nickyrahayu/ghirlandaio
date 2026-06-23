@@ -97,9 +97,50 @@ USE senayan;
 SHOW TABLES;
 ```
 
-Jika tabelnya mincul, artinya tabel SLiMS berhasil diimpor ke database.
+Jika tabelnya muncul, artinya tabel SLiMS berhasil diimpor ke database.
 
 
 Kemudian kita pastikan juga port mariadb aktif
 
+```bash
+ss -tlnp | grep 3306
+```
 
+Dan kita buka akses mariadbnya (melalui jaringan)
+
+```bash
+firewall-cmd --permanent --zone=public --add-port=3306/tcp
+```
+
+
+```bash
+firewall-cmd --reload
+
+```
+
+## Memverifikasi akses mariadb
+
+```bash
+firewall-cmd --zone=public --list-ports
+```
+
+Output yang keluar:
+
+```bash
+3306/tcp
+```
+
+## Menguji koneksi server app
+
+```bash
+ping -c 5 10.141.210.194
+```
+
+## Upload rekaman
+
+
+exit dengan menekan ctrl + d
+
+```bash
+asciinema upload namafile.cast
+```
