@@ -14,3 +14,37 @@
 | **10** | Pelestarian Koleksi Digital di Perpustakaan Universitas Terbuka | Muhammad Syafiq K. P. | 2013 | Preservasi digital terkendala file corrupt/missing, kurangnya keahlian staf, dan risiko peretasan web. Disarankan penyusunan SOP pelestarian digital dan penguatan keamanan web. |
 | **11** | Pengembangan Aplikasi Sistem Pengambilan Keputusan Pemetaan Pelatihan TI untuk Disabilitas (Metode AHP) | Ahmad Arya Sawraja | 2018 | Metode AHP sukses memetakan rekomendasi pelatihan TI berbasis disabilitas. Sistem masih terbatas, disarankan menambah kriteria seleksi dan memperluas cakupan jenis disabilitas. |
 | **12** | Pengaruh Task Technology Fit Terhadap Pemanfaatan E-Book Mahasiswa UIN Jakarta | Dandy Julian | 2022 | Pemanfaatan e-book dipengaruhi secara positif oleh kesesuaian antara karakteristik teknologi dengan kebutuhan akademik mahasiswa (Task-Technology Fit). |
+
+## berikut analisis 3 permasalahan utama perpustakaan dan arsip dengan kaitannya terhadap implementasi teknologi informasi. 
+
+# Keterbatasan Infrastruktur fisik da nekosistem legacy
+
+banyak perpustakan yang terjebak pada sistem usang (legacy systems) dan infrastrukur fisik yang rentan, sehingga menghambat sklabilitas layanan.
+
+## obsolesensi platform: 
+data menunjukan (no. 1) bahwa ketergantungan pada lingkungan sistem operasi lama (seperti DOS) membatasi penambahan fitur dan menyebabkan kendala memori. Ini adalah masalah mendasar dalam arsitektur pernagkat lunak; ketika fondasi usang, sistem tidak bisa merespon kebutuhan modern.
+
+## Kerentanan Perangkat Keras dan Jaringan:
+Operasional otomasi sangat bergantung pada stabilitas hardware dan konektivitas (No. 2 dan No. 8). Hal-hal teknis yang sering dianggap sepele, seperti ketiadaan UPS, manajemen backup data yang buruk, hingga latensi internet yang tinggi, menjadi bottleneck (leher botol) yang melumpuhkan layanan sirkulasi dan akses referensi digital harian.
+
+# Kesenjangan Usability dan Task-Technology Fit
+Teknologi yang diimplementasikan seringkali sekadar memenuhi syarat "digitalisasi" tanpa benar-benar memikirkan pengalaman pengguna (UI/UX) dan kesesuaian sistem dengan alur kerja pemustaka.
+
+## Kelengkapan Fitur vs. Kebutuhan Pengguna:
+Perangkat lunak mungkin berfungsi secara dasar, namun gagal menyediakan fitur krusial seperti layanan terintegrasi online atau modul pelaporan (No. 2). Ini menunjukkan desain sistem yang belum berpusat pada pengguna (user-centered design).
+
+## Validasi Task-Technology Fit:
+Teknologi hanya akan efektif jika ada keselarasan yang murni antara karakteristik alat tersebut dengan tugas akademik penggunanya (No. 12). Evaluasi sistem (No. 3) membuktikan bahwa perangkat lunak dengan arsitektur informasi yang lebih bersih, usabilitas yang tinggi, dan reliabilitas (seperti SLiMS/Senayan) akan selalu mengungguli sistem yang rumit atau kaku. Teknologi tidak boleh sekadar menjadi "mitos" kemajuan; ia harus secara ontologis sesuai dengan realitas kebutuhan mahasiswa dan staf.
+
+# Kerentanan Keamanan Web dan Preservasi Digital
+Fungsi esensial perpustakaan dan arsip modern adalah menjaga memori institusi secara digital, namun perlindungan terhadap repositori data ini sering kali lemah.
+
+## Integritas Data yang Rapuh:
+Masalah file corrupt dan missing data (No. 10) mengindikasikan manajemen basis data yang kurang terstruktur dan absennya protokol maintenance rutin. Mengelola arsip digital bukan sekadar menyimpan file, melainkan membangun ekosistem penyimpanan yang menjamin data integrity jangka panjang.
+
+## Ancaman Keamanan (Cybersecurity) dan Faktor Manusia:
+
+Adanya risiko peretasan web menunjukkan celah pada arsitektur backend dan front-end yang digunakan perpustakaan. Tantangan struktural ini semakin diperparah oleh kesenjangan keahlian teknis (SDM) yang bertugas menjaga sistem tersebut, sehingga SOP pelestarian digital yang proaktif gagal dijalankan.
+
+
+
