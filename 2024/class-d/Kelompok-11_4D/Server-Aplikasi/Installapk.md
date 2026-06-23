@@ -1,20 +1,18 @@
 ## Percobaan Install #Pertama
 
-## 1. omeka podman
+## Omeka podman
 ```
 sudo pacman -S  podman-compose
 ```
 
-# Compose
+## Compose
 ```
 mkdir omeka-project
 ```
-
+## Config compose.yml 
 ```
 nvim compose.yml
 ```
-
-# Config compose.yml Yyya
 ```
 version: '3'
 
@@ -87,10 +85,10 @@ masukin password
 create database omeka;
 ```
 ```
-create user 'lunnns'@'localhost' identified by 'password'; 
+create user 'kelompok11'@'localhost' identified by '123'; 
 ```
 ```
-grant all privileges on omeka.* to 'lunnns'@'localhost';
+grant all privileges on omeka.* to 'kelompok11'@'localhost';
 ```
 ```
 flush privileges;
@@ -116,9 +114,8 @@ nvim /srv/http/omekas/config/database.ini
 ```
 ``` 
 klik  i
-user=kelompok11, pass=password, dbname=omeka, host=localhost 
-klik esc
-:wq
+user="kelompok11", pass="password", dbname="omeka", host="localhost" 
+klik esc :wq
 ```
 ```
 nvim /etc/php/php.ini
@@ -129,7 +126,7 @@ klik esc :wq
 ```
 ```
 nvim /etc/httpd/conf/httpd.conf
-add tagar sama delete tagar, jadi
+add tagar sama delete tagar, hasilnya jadi gini
 #LoadModule mpm_event_module modules/mod_mpm_event.so
 LoadModule mpm_prefork_module modules/mod_mpm_prefork.so 
 tambahin LoadModule php_module modules/libphp.so
@@ -139,13 +136,13 @@ posisinya setelah
 #LoadModule info_module modules/mod_info.so
 #LoadModule suexec_module modules/mod_suexec.so   
 ganti AllowOverride none jadi AllowOverride ALL
-setelah
+setelah 
 Options Indexes FollowSymLinks
 # AllowOverride controls what directives may be placed in .htaccess files.                     
-tambahin Include conf/extra/php_module.conf
+tambahkan Include conf/extra/php_module.conf
 #It can be "All", "None", or any combination of the keywords:
 #AllowOverride FileInfo AuthConfig Limit                              
-posisinya abis ini
+posisinya setelah ini nich
 <IfModule ssl_module>
 SSLRandomSeed startup builtin
 SSLRandomSeed connect builtin
@@ -158,7 +155,7 @@ systemctl restart httpd
 ```
 systemctl status httpd
 ```
-Ada tilisan merah gitu keknya error tapi ttp dilanjuitn 
+Ada tulisan merah gitu keknya error tapi ttp dilanjuitn 
 ```
 ip a
 ```
@@ -168,6 +165,6 @@ exit
 ```
 reboot
 ```
-Laptop mati karena baterai habis tidak di charger pas dicoba degan input ip a dab :80 
+Laptop mati karena baterai habis tidak di charger pas dicoba degan input ip a dan :80 tidak ada hasil padahal sudah satu jaringan...
 GAGAL LAGI
 
